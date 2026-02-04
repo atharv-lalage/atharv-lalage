@@ -41,7 +41,3 @@ I am a 3rd-year Electronics Computer Engineering student at **PICT, Pune**, pass
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-lalage&theme=dark" alt="Atharv's Streak" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-lalage&layout=compact&theme=dark" alt="Top Languages" />
-</p>
