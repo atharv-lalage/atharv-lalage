@@ -4,7 +4,7 @@
 I am a pre-final year ECE student at **PICT, Pune**, passionate about solving complex algorithmic challenges and building scalable web applications and high-performance GenAI systems.
 
 * 💻 I am currently building projects using the MERN stack, PyTorch, and LLMs (like Google Gemini and LLaMA 3.3).
-* 🏆 **Competitive Programming:** Achieved Max Rating 1431 (2-Star) on CodeChef.
+* 🏆 **Competitive Programming:** Achieved Max Rating 1469 (2-Star) on CodeChef.
 * 🚀 **Hackathons:** Finalist at PVG Hackathon (Top 6/450+) & SciTech Innovation 2025 (Top 15/250+).
 * 🧠 **Problem Solving:** Solved 300+ DSA problems across LeetCode, CodeChef, and GeeksforGeeks.
 * 📜 **Certifications:** Certified in Data Analytics Level 1 by MetricMinds & PICT.
