@@ -33,7 +33,7 @@ A full-stack stock trading platform with live market tracking and portfolio mana
 **📊 DataMart** — `Python` `Flask` `React.js` `PostgreSQL` `Pandas` `Scikit-learn` `Groq API`
 An AI-powered Business Intelligence platform with ETL pipelines, OLTP/OLAP processing, and a Snowflake-schema data warehouse. Interactive dashboards for customer segmentation, sales forecasting, and market-basket analysis, plus Groq-LLM-generated business insights.
 
-**🤖 NoteBot** — `Python` `Streamlit` `LangChain` `Google Gemini` `NumPy`
+**🤖 NoteBot** — `Python` `React` `LangChain` `Google Gemini` `PostgreSQL`
 A RAG-powered study assistant for PDF-based Q&A, AI summaries, and flashcards — using vector embeddings, cosine similarity, and LangChain document chunking for accurate semantic retrieval.
 
 ---
